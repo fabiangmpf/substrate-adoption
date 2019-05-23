@@ -85,7 +85,13 @@ Airalab is building blockchain infrastructure for cyber-physical systems integra
 
 Starlog is a Substrate-based blockchain, which stores metadata for IPFS. Data will be signed by the uploaders and include availability information, a price, a timestamp, a license, information about the uploaded file itself as well as the location/gateway of the initial upload.
 
-[Code](https://github.com/PACTCare/Starlog)  
+[Code](https://github.com/PACTCare/Starlog)
+
+### Totem Accounting
+
+Totem is building an accounting soltuion on Substrate.
+
+[Code](https://gitlab.com/totem-tech) | [Website](https://totemaccounting.com/)
 
 ### ZeroChain
 
