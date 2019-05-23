@@ -1,5 +1,5 @@
 # State of Substrate Adoption
-*A list of projects publiclcy building with/for [Substrate]((https://github.com/paritytech/substrate))*
+*A list of projects publicly building with / for [Substrate]((https://github.com/paritytech/substrate))*
 
 ## Table of Contents
 1. [Projects](#Projects)
