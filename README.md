@@ -3,8 +3,8 @@
 
 ## Table of Contents
 1. [Projects](#Projects)
-2. [Tooling/Infrastructure](#Tooling/Infrastructure)
-3. [Examples](#Examples )
+2. [Tooling and Infrastructure](#Tooling-and-Infrastructure)
+3. [Examples](#Examples)
 
 ## Projects
 
@@ -93,7 +93,7 @@ Zerochain is a privacy-preserving blockchain build on Substrate. It is designed 
 
 [Code](https://github.com/LayerXcom/zero-chain) | [Team](https://layerx.co.jp/)
 
-## Tooling/Infrastructure 
+## Tooling and Infrastructure 
 
 ### Chainhammer
 
