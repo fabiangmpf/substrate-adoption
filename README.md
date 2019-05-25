@@ -14,11 +14,11 @@ The Adex team implemented their protocol for decentralized digital advertising o
 
 [Code](https://github.com/AdExNetwork/adex-protocol-substrate) | [Website](https://www.adex.network/)
 
-### ChainX
+### ChainX [Live]
 
 ChainX is building a cross-chain digital asset management platform on top of the Substrate framework. 
 
-[Code](https://github.com/chainx-org) | [Website](https://chainx.org/) | [Testnet](https://github.com/chainx-org/ChainX#testnet)
+[Code](https://github.com/chainx-org) | [Website](https://chainx.org/) | [Mainnet](https://telemetry.polkadot.io/#/ChainX)
 
 ### Edgeware
 
