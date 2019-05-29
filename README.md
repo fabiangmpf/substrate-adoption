@@ -44,6 +44,12 @@ iExec is working on a decentralized blockchain-based cloud computing platform. T
 
 [Code](https://github.com/iExecBlockchainComputing/iexec-substrate-poc) | [Team](https://iex.ec/)
 
+### Joystream
+
+A user governed video platform built on Substrate.
+
+[Code](https://github.com/Joystream) | [Team](https://www.jsgenesis.com/) | [Website](https://www.joystream.org/) | [Testnet](https://github.com/Joystream/joystream#testnet-releases)
+
 ### Katalossos
 
 Katallassos is an implementation of the [Algorithmic Contract Types Unified Standard (ACTUS)](https://www.actusfrf.org/about) into a specialized susbtrate-based blockchain. It's meant to become a new standard framework for originating and issuing financial instruments and financial services such as derivatives.
