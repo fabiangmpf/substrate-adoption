@@ -171,4 +171,4 @@ Parity Technologies built an example implementation of an UTXO (Bitcoin-like) ch
 
 ### Others
 
-There are multiple smaller example implementations, like ERC20 and ERC721 runtimes, a Proof-of-Existence chain, a Websocket Listener and more that can be found in [Parity's Sample Repository](https://github.com/parity-samples).
+There are multiple smaller example implementations, like ERC20 and ERC721 runtimes, a Proof-of-Existence chain, a Websocket Listener and more that can be found in the [Substrate Developer Hub Repo](https://github.com/substrate-developer-hub).
