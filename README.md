@@ -20,6 +20,12 @@ ChainX is building a cross-chain digital asset management platform on top of the
 
 [Code](https://github.com/chainx-org) | [Website](https://chainx.org/) | [Mainnet](https://telemetry.polkadot.io/#/ChainX)
 
+### Centrifuge
+
+Centrifuge is an open, decentralized platform to connect the global financial supply chain. It allows any business to transact while maintaining ownership of their data, including their validated company details, their reputation, business relationships, and subsequent transactions.
+
+[Code](https://github.com/centrifuge) | [Website](https://centrifuge.io/)
+
 ### Edgeware
 
 Edgeware is a wasm-based smart contract platform with a focus on effective on-chain governance build on Substrate. It makes use of the SRML's *contracts* module. 
