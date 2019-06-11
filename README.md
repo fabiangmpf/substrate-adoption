@@ -36,7 +36,7 @@ Edgeware is a wasm-based smart contract platform with a focus on effective on-ch
 
 Parity Technologies is building a Serenity / Ethereum 2.0 phase 0 full node implementation called 'Shasper' on top of the Substrate framework.
 
-[Code](https://github.com/paritytech/polkadot) | [Team](https://www.parity.io/) | [Website](https://ethereum.org/) | [Testnet](https://github.com/paritytech/shasper/wiki/Shasper-Testnet-Plans)
+[Code](https://github.com/paritytech/shasper) | [Team](https://www.parity.io/) | [Website](https://ethereum.org/) | [Testnet](https://github.com/paritytech/shasper/wiki/Shasper-Testnet-Plans)
 
 ### Horizon Games
 
